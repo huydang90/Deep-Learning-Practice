@@ -1,5 +1,5 @@
 # Deep-Learning-Practice
-Personal practice with Deep Learning algorithms, including: 
+Personal practice with Deep Learning algorithms in both Python and R, including: 
 
 - Supervised learning: ANN (Bank Customer Exit Classifier); CNN (Basic dog/cat image classifier); RNN (Stock price predictor)
 - Unsupervised learning: Self-organizing map (Credit card fraud detector); Boltzmann Machine (Movie Recommender); AutoEncoder (Movie Recommender). 
